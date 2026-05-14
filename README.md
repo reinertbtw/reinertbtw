@@ -33,13 +33,20 @@ Também participo do programa **Entra21 Java**, com foco em Java.
 ## 📌 Projeto em Destaque
 
 ### 🎮 ProLife
+
 Jogo de escolhas e sobrevivência desenvolvido utilizando HTML, CSS e JavaScript.
+
+<p align="left">
+  <a href="https://reinertbtw.github.io/ProLife/" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20Jogar%20Agora-0f172a?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-reinertk/)
 
 ---
 
