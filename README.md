@@ -1,31 +1,37 @@
-# Hey, I'm Lucas Reinert! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+# Hey, I'm Lucas Reinert! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7y/giphy.gif" width="30px">
 
 Atualmente cursando o **Ensino Médio Técnico em Desenvolvimento de Sistemas** no SENAI Blumenau/SC.  
-Também participo do programa **Entra21 Java**, com foco em Java.
+Também participo do programa **Entra21 Java**, com foco em desenvolvimento backend.
 
 ---
 
 ## Atualmente Estudando
 
-- Desenvolvimento backend com **Java**
+- Desenvolvimento backend com **Java + Spring**
+- Programação Orientada a Objetos (**OOP**)
 - Construção de interfaces com **HTML, CSS e JavaScript**
-- Versionamento de projetos utilizando **GitHub**
+- Banco de Dados (**SQL**)
+- Versionamento de projetos utilizando **Git e GitHub**
 
 ---
 
 # Tecnologias & Ferramentas
 
-## Linguagens
+## Linguagens & Frameworks
 
 [![Java](https://skillicons.dev/icons?i=java)](https://github.com/)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://github.com/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/)
 [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/)
 [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/)
 
 ---
 
 ## Ferramentas
 
+[![Git](https://skillicons.dev/icons?i=git)](https://github.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 
 ---
@@ -34,7 +40,7 @@ Também participo do programa **Entra21 Java**, com foco em Java.
 
 ### ProLife
 
-Jogo de escolhas e ações desenvolvido utilizando HTML, CSS e JavaScript.
+Jogo de escolhas e ações desenvolvido utilizando **HTML, CSS e JavaScript**.
 
 <p align="left">
   <a href="https://reinertbtw.github.io/ProLife/" target="_blank">
