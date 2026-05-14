@@ -20,12 +20,12 @@ Também participo do programa **Entra21 Java**, com foco em desenvolvimento back
 
 ## Linguagens & Frameworks
 
-[![Java](https://skillicons.dev/icons?i=java)](https://github.com/)
-[![Spring](https://skillicons.dev/icons?i=spring)](https://github.com/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/)
 [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/)
 [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/)
+[![Java](https://skillicons.dev/icons?i=java)](https://github.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://github.com/)
 
 ---
 
