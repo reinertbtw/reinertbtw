@@ -38,7 +38,7 @@ Jogo de escolhas e sobrevivência desenvolvido utilizando HTML, CSS e JavaScript
 
 <p align="left">
   <a href="https://reinertbtw.github.io/ProLife/" target="_blank">
-    <img src="https://img.shields.io/badge/▶%20Jogar%20Agora-0f172a?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/▶%20Landing%20Page-0f172a?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -47,11 +47,3 @@ Jogo de escolhas e sobrevivência desenvolvido utilizando HTML, CSS e JavaScript
 ## 📫 Contato
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-reinertk/)
-
----
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-</div>
