@@ -5,7 +5,7 @@ Também participo do programa **Entra21 Java**, com foco em Java.
 
 ---
 
-## 🚀 Atualmente Estudando
+## Atualmente Estudando
 
 - Desenvolvimento backend com **Java**
 - Construção de interfaces com **HTML, CSS e JavaScript**
@@ -13,9 +13,9 @@ Também participo do programa **Entra21 Java**, com foco em Java.
 
 ---
 
-# 💻 Tecnologias & Ferramentas
+# Tecnologias & Ferramentas
 
-## 🧠 Linguagens
+## Linguagens
 
 [![Java](https://skillicons.dev/icons?i=java)](https://github.com/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/)
@@ -24,15 +24,15 @@ Também participo do programa **Entra21 Java**, com foco em Java.
 
 ---
 
-## 🛠️ Ferramentas
+## Ferramentas
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 
 ---
 
-## 📌 Projeto em Destaque
+## Projeto em Destaque
 
-### 🎮 ProLife
+### ProLife
 
 Jogo de escolhas e sobrevivência desenvolvido utilizando HTML, CSS e JavaScript.
 
@@ -44,6 +44,6 @@ Jogo de escolhas e sobrevivência desenvolvido utilizando HTML, CSS e JavaScript
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-reinertk/)
