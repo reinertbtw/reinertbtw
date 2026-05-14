@@ -34,7 +34,7 @@ Também participo do programa **Entra21 Java**, com foco em Java.
 
 ### ProLife
 
-Jogo de escolhas e sobrevivência desenvolvido utilizando HTML, CSS e JavaScript.
+Jogo de escolhas desenvolvido utilizando HTML, CSS e JavaScript.
 
 <p align="left">
   <a href="https://reinertbtw.github.io/ProLife/" target="_blank">
