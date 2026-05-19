@@ -1,5 +1,5 @@
 
-# Hey, I'm Lucas Reinert! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# System.out.println("Lucas Reinert");
 
 Atualmente cursando o **Ensino Médio Técnico em Desenvolvimento de Sistemas** no SENAI Blumenau/SC.  
 Também participo do programa **Entra21 Java**, com foco em desenvolvimento backend.
@@ -16,27 +16,27 @@ Também participo do programa **Entra21 Java**, com foco em desenvolvimento back
 
 ---
 
-# Tecnologias & Ferramentas
+# Powered by
 
-## Linguagens & Frameworks
+## Core stack
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://github.com/)
-[![CSS](https://skillicons.dev/icons?i=css)](https://github.com/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/)
-[![Java](https://skillicons.dev/icons?i=java)](https://github.com/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/)
-[![Spring](https://skillicons.dev/icons?i=spring)](https://github.com/)
-
----
-
-## Ferramentas
-
-[![Git](https://skillicons.dev/icons?i=git)](https://github.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![HTML](https://skillicons.dev/icons?i=html)]
+[![CSS](https://skillicons.dev/icons?i=css)]
+[![JavaScript](https://skillicons.dev/icons?i=js)]
+[![Java](https://skillicons.dev/icons?i=java)]
+[![MySQL](https://skillicons.dev/icons?i=mysql)]
+[![Spring](https://skillicons.dev/icons?i=spring)]
 
 ---
 
-## Projeto em Destaque
+## Workflow
+
+[![Git](https://skillicons.dev/icons?i=git)]
+[![GitHub](https://skillicons.dev/icons?i=github)]
+
+---
+
+## Featured Project
 
 ### ProLife
 
