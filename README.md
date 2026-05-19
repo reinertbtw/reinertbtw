@@ -20,12 +20,12 @@ Também participo do programa **Entra21 Java**, com foco em desenvolvimento back
 
 ## Core stack
 
-[![HTML](https://skillicons.dev/icons?i=html)]
-[![CSS](https://skillicons.dev/icons?i=css)]
-[![JavaScript](https://skillicons.dev/icons?i=js)]
-[![Java](https://skillicons.dev/icons?i=java)]
-[![MySQL](https://skillicons.dev/icons?i=mysql)]
-[![Spring](https://skillicons.dev/icons?i=spring)]
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Java](https://skillicons.dev/icons?i=java)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Spring](https://skillicons.dev/icons?i=spring)
 
 ---
 
