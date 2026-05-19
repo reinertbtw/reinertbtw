@@ -31,8 +31,8 @@ Também participo do programa **Entra21 Java**, com foco em desenvolvimento back
 
 ## Workflow
 
-[![Git](https://skillicons.dev/icons?i=git)]
-[![GitHub](https://skillicons.dev/icons?i=github)]
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
 
