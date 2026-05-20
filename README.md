@@ -18,25 +18,23 @@ Também participo do programa **Entra21 Java**, com foco em desenvolvimento back
 
 # Powered by
 
-## Core stack
+## Linguagens
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Java](https://skillicons.dev/icons?i=java)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Spring](https://skillicons.dev/icons?i=spring)
 
 ---
 
-## Workflow
+## Ferramentas
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
 
-## Featured Project
+## Projetos
 
 ### ProLife
 
