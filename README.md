@@ -2,7 +2,7 @@
 # System.out.println("Lucas Reinert");
 
 Atualmente cursando o **Ensino Médio Técnico em Desenvolvimento de Sistemas** no SENAI Blumenau/SC.  
-Também participo do programa **Entra21 Java**, com foco em desenvolvimento backend.
+Também participo do programa **Entra21**, com foco em Java.
 
 ---
 
