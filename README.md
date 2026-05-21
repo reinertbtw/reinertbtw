@@ -48,6 +48,18 @@ Jogo de escolhas e ações desenvolvido utilizando **HTML, CSS e JavaScript**.
 
 ---
 
+### Organiza+
+
+Plataforma de organização pessoal desenvolvida utilizando HTML, CSS e JavaScript**.
+
+<p align="left">
+  <a href="https://reinertbtw.github.io/Organiza/" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20Landing%20Page-0f172a?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
 ## Contato
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-reinertk/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-reinertk/)
