@@ -1,4 +1,4 @@
-# \<Lucas Reinert /\>
+# \<Lucas Reinert/\>
 
 Atualmente cursando o **Ensino Médio Técnico em Desenvolvimento de Sistemas** no SENAI Blumenau/SC.  
 Também participo do programa **Entra21**, com foco em Java.
