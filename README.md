@@ -17,21 +17,15 @@ Também participo do programa **Entra21**, com foco em Java.
 
 # Powered by
 
-## Linguagens
+## Linguagens & Bancos
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,dart)](https://skillicons.dev)
-
----
-
-## Frameworks & Banco de Dados
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,mysql)](https://skillicons.dev)
 
 ---
 
 ## Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,androidstudio)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
 
 ---
 
@@ -43,7 +37,7 @@ Jogo de escolhas e ações desenvolvido utilizando **HTML, CSS e JavaScript**.
 
 <p align="left">
   <a href="https://reinertbtw.github.io/ProLife/" target="_blank">
-    <img src="https://img.shields.io/badge/▶%20Landing%20Page-0f172a?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/▶%20Landing%20Page-0f172a?style=for-the-badge&logo=prolife&logoColor=white">
   </a>
 </p>
 
@@ -51,4 +45,5 @@ Jogo de escolhas e ações desenvolvido utilizando **HTML, CSS e JavaScript**.
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-reinertk/)
+[![My Contact](https://skillicons.dev/icons?i=gmail)](mailto:reinertwrk@gmail.com)
+[![My Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-reinertk/)
