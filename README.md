@@ -25,7 +25,7 @@ Também participo do programa **Entra21**, com foco em Java.
 
 ## Ferramentas
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
