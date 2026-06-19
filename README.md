@@ -19,13 +19,13 @@ Também participo do programa **Entra21**, com foco em Java.
 
 ## Linguagens & Bancos
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,mysql)](https://skillicons.dev)
 
 ---
 
 ## Ferramentas
 
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
 ---
 
