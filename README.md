@@ -7,11 +7,12 @@ Também participo do programa **Entra21**, com foco em Java.
 
 ## Atualmente Estudando
 
-- Desenvolvimento backend com **Java + Spring**
-- Programação Orientada a Objetos (**OOP**)
-- Construção de interfaces com **HTML, CSS e JavaScript**
-- Banco de Dados (**SQL**)
-- Versionamento de projetos utilizando **Git e GitHub**
+- TypeScript
+- React
+- Flutter e desenvolvimento de aplicações mobile
+- Programação Orientada a Objetos (OOP)
+- Banco de Dados SQL
+- Git e GitHub
 
 ---
 
@@ -41,7 +42,18 @@ Jogo de escolhas e ações desenvolvido utilizando **HTML, CSS e JavaScript**.
 
 <p align="left">
   <a href="https://reinertbtw.github.io/ProLife/" target="_blank">
-    <img src="https://img.shields.io/badge/▶%20Landing%20Page-0f172a?style=for-the-badge&logo=prolife&logoColor=white">
+    <img src="https://img.shields.io/badge/▶%20Landing%20Page-0f172a?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+
+### CycloRoute
+
+Aplicativo mobile desenvolvido com **Flutter e Dart**, voltado para ciclistas, utilizando recursos de localização e integração com GPS para criação e acompanhamento de trajetos.
+
+<p align="left">
+  <a href="https://github.com/reinertbtw/CycloRoute" target="_blank">
+    <img src="https://img.shields.io/badge/%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
