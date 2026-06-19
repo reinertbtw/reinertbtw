@@ -17,15 +17,19 @@ Também participo do programa **Entra21**, com foco em Java.
 
 # Powered by
 
-## Linguagens & Bancos
+## Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,mysql)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=ts,dart,java)](https://skillicons.dev)
 
 ---
 
+## Frameworks & Bancos
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,flutter)](https://skillicons.dev)
+
 ## Ferramentas
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
 
 ---
 
