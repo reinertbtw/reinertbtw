@@ -20,7 +20,7 @@ Também participo do programa **Entra21**, com foco em Java.
 
 ## Linguagens
 
-[![My Languages](https://skillicons.dev/icons?i=ts,dart,java)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=dart,java,js)](https://skillicons.dev)
 
 ---
 
