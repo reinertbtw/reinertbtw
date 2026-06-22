@@ -16,7 +16,7 @@ Também participo do programa **Entra21**, com foco em Java.
 
 ---
 
-# Powered by
+# Stack
 
 ## Linguagens
 
@@ -28,9 +28,9 @@ Também participo do programa **Entra21**, com foco em Java.
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,flutter)](https://skillicons.dev)
 
-## Ferramentas
+## Ferramentas & Ambientes
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,ubuntu,github,git)](https://skillicons.dev)
 
 ---
 
