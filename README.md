@@ -5,6 +5,12 @@ Também participo do programa **Entra21**, com foco em Java.
 
 ---
 
+## Portfolio
+
+> Meu portfólio pessoal com projetos, estudos e evolução como desenvolvedor.
+
+🔗 **[Acessar Portfólio](https://portfolio-lreinert.vercel.app/)**
+
 ## Atualmente Estudando
 
 - TypeScript
@@ -28,9 +34,9 @@ Também participo do programa **Entra21**, com foco em Java.
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,flutter)](https://skillicons.dev)
 
-## Ferramentas & Ambientes
+## Ferramentas
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,ubuntu,github,git)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
 
 ---
 
