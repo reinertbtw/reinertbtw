@@ -5,7 +5,7 @@ Também participo do programa **Entra21**, com foco em Java.
 
 ---
 
-## Portfolio
+## Portfólio
 
 > Meu portfólio pessoal com projetos, estudos e evolução como desenvolvedor.
 
