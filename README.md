@@ -32,11 +32,11 @@ Também participo do programa **Entra21**, com foco em Java.
 
 ## Frameworks & Bancos
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,spring,mysql,firebase)](https://skillicons.dev)
 
 ## Ferramentas
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,idea,github,git)](https://skillicons.dev)
 
 ---
 
