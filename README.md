@@ -47,8 +47,8 @@ Também participo do programa **Entra21**, com foco em Java.
 Jogo de escolhas e ações desenvolvido utilizando **HTML, CSS e JavaScript**.
 
 <p align="left">
-  <a href="https://reinertbtw.github.io/ProLife/" target="_blank">
-    <img src="https://img.shields.io/badge/▶%20Landing%20Page-0f172a?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://talentosblusoft.org/entra21/projetos/prolife" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20Conheça%20o%20Projeto!-0f172a?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
