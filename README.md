@@ -1,7 +1,7 @@
 # \<Lucas Reinert/\>
 
 Atualmente cursando o **Ensino Médio Técnico em Desenvolvimento de Sistemas** no SENAI Blumenau/SC.  
-Também participo do programa **Entra21**, com foco em Java.
+Concluí o programa **Entra21 Java**, imersão presencial de 480h em desenvolvimento backend prático.
 
 ---
 
