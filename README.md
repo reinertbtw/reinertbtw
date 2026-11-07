@@ -34,9 +34,9 @@ Também participo do programa **Entra21**, com foco em Java.
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,spring,mysql,firebase)](https://skillicons.dev)
 
-## Ferramentas
+## Ambiente & Ferramentas
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,idea,github,git)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=debian,vscode,idea,github,git)](https://skillicons.dev)
 
 ---
 
@@ -52,16 +52,6 @@ Jogo de escolhas e ações desenvolvido utilizando **HTML, CSS e JavaScript**.
   </a>
 </p>
 
-
-### CycloRoute
-
-Aplicativo mobile desenvolvido com **Flutter e Dart**, voltado para ciclistas, utilizando recursos de localização e integração com GPS para criação e acompanhamento de trajetos.
-
-<p align="left">
-  <a href="https://github.com/reinertbtw/CycloRoute" target="_blank">
-    <img src="https://img.shields.io/badge/%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
 
 ---
 
